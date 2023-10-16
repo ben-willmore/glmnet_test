@@ -2,7 +2,7 @@
 % those from R on linux/mac
 
 % results of running r_export.r on CRAN-installed R/glmnet on linux/mac (etc)
-comparison_dir = 'r-mac'; % 'linux'
+comparison_dir = 'matlab-glnxa64'; % 'linux'
 
 save_results = true;
 

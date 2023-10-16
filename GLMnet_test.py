@@ -104,7 +104,7 @@ def save_csv_files(data_dir, dirname, dct):
 
 
 comparison_root = './comparison-data'
-comparison_dir = 'matlab-maci64' # 'linux'
+comparison_dir = 'matlab-glnxa64' # 'linux'
 
 save_results = True
 
